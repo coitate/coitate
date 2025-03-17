@@ -1,4 +1,4 @@
-## Hi there 👋
+## COITATE
 
 <!--
 **coitate/coitate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Who
+I'm Chihiro Oitate, a Senior Engineer in the Data/AI.
+
+## Bio
+Please refer [here](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
+
+## 
